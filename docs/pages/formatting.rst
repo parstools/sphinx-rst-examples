@@ -1,0 +1,8 @@
+Formatting
+----------
+
+*Text*
+**text**
+``text``
+
+

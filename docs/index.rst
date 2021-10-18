@@ -10,11 +10,17 @@ Welcome to sphinx-rst-example's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   pages/lists
+   pages/formatting
+   pages/breaking  
+   pages/sourcecode
+   pages/tabels
+   pages/sections
+   pages/directives
+   pages/footnotes
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
