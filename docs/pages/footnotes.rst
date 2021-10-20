@@ -1,7 +1,7 @@
 Footnotes
 ---------
 
-Normale Fussnoten
+Normal Footnotes
 =================
 
 Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
