@@ -124,12 +124,16 @@ latex_elements = {
     # 'figure_align': 'htbp',
 }
 
+latex_docclass = {
+       'howto': 'paper',
+    }
+
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'sphinx-rst-example.tex', 'sphinx-rst-example Documentation',
-     'AB', 'manual'),
+     'AB', 'howto'),
 ]
 
 
