@@ -18,6 +18,7 @@ Welcome to sphinx-rst-example's documentation!
    pages/sections
    pages/directives
    pages/footnotes
+   pages/tikz
 
 Indices and tables
 ==================
